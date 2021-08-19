@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.OfficeApp" DefaultFile="Trello Shared API.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="AppPackage" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Trello Shared API.xml" Target="Trello Shared API.xml\" Type="AppPackage" />
+  </Files>
+  <ExtensionData>
+    <ExtensionDataItem Key="OfficeAppManifestRelativePath" Value="Trello Shared API.xml\Trello Shared API.xml" />
+    <ExtensionDataItem Key="OfficeAppStartPageRelativePath" Value="App\Home\Home.html" />
+  </ExtensionData>
+</ProjectItem>
